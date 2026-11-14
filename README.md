@@ -2,7 +2,7 @@
 
 An end-to-end study of **employee attrition** — why people voluntarily leave an organization — plus a **Claude-powered Attrition Risk Advisor** built on top of the analysis.
 
-> 📓 The full analysis lives in [`Attrition_Analysis.ipynb`](Attrition_Analysis.ipynb) (63 cells, with charts and model results inline). Open it on [Colab](https://colab.research.google.com/github/snehaguptagi/employee-attrition-analysis/blob/main/Attrition_Analysis.ipynb) or locally with Jupyter.
+> 📓 The full analysis lives in [`Attrition_Analysis.ipynb`](Attrition_Analysis.ipynb) (63 cells). Open it on [Colab](https://colab.research.google.com/github/sneha-asi/employee-retention-ai/blob/main/Attrition_Analysis.ipynb) or locally with Jupyter.
 
 ## 🧠 Attrition Risk Advisor (AI tool)
 
@@ -43,5 +43,5 @@ jupyter notebook Attrition_Analysis.ipynb
 
 ## Notes
 
-- The notebook ships with its outputs (charts, tables) rendered inline, so you can read the findings without re-running it.
+- The notebook is published without outputs. It expects an HR dataset (`HR MIS.xlsx`) that is not included in this repository; run it against your own data.
 - Built as a portfolio data-science project.
